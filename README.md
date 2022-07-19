@@ -1,5 +1,5 @@
 # Products Up
-A command-line program to push a local or remote XML file data to a Google Spreadsheet via the Google Sheets API.
+A command-line program to push a local or remote XML file data to a Google Spreadsheet.
 
 ## Requirements
 - PHP >= 7.1
