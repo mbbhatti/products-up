@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  productsup:
+    image: productsup
+    build:
+      context: ..
+      dockerfile: .docker/Dockerfile

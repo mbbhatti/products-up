@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  productsup-test:
+    image: productsup-test
+    build:
+      context: ..
+      dockerfile: .docker/test.Dockerfile
